@@ -148,7 +148,6 @@ public class Classifier {
                 }
             }
         }
-        System.out.println(weightAll);
         return weightAll;
     }
 
